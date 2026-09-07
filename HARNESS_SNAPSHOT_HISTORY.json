@@ -1,0 +1,26 @@
+{
+  "entries": [
+    {
+      "harness_snapshot_sha256": "d4baf659ab65f22bf168555ef3c2aaf45ba09d7027bf5d3e7a3e02e69687ea14",
+      "harness_version": "1.1.0",
+      "importer_policy_sha256": "a7650a8ba5be3fef370914b24a49b1118f57dc12f41980f21b11ef2b0a8267c1",
+      "source_manifest_sha256": "7dfdb41a68bfda314d663ba03b4b2a713ea194168ade5287e58c6434be5cc4fb",
+      "tree_sha256": "b5d1986165a71e0ff08cef4d10f6f6d43109eefde9829af56be539fd4d4b5137"
+    },
+    {
+      "harness_snapshot_sha256": "2720490f6243e22f21e8e9f321cd6fd849b8ea91f721bd2152414a89c733de67",
+      "harness_version": "1.2.4",
+      "importer_policy_sha256": "a7650a8ba5be3fef370914b24a49b1118f57dc12f41980f21b11ef2b0a8267c1",
+      "source_manifest_sha256": "fedd664f1ac16c5232eb05076b73f2bab566ed672840e7f2af851c77253813b3",
+      "tree_sha256": "965f6ed008327c75062a8a77a569d7441073fea8b43b3a7f8a610aea10396a68"
+    }
+  ],
+  "repository": "vibemathing/problem-opg-171-strong-colorability",
+  "repository_identity": {
+    "database_id": 1358797742,
+    "default_branch": "main",
+    "node_id": "R_kgDOUP2brg",
+    "visibility": "public"
+  },
+  "schema_version": "1.0.0"
+}
